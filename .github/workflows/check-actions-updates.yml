@@ -26,6 +26,7 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
 
           # Initialize variables
+          # Init
           HAS_UPDATES=false
           UPDATE_COUNT=0
 
